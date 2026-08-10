@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Atividades-diárias-22C55E?style=for-the-badge" alt="Atividades diárias" />
+  <img src="https://img.shields.io/badge/Atividades-5%20concluídas-22C55E?style=for-the-badge" alt="5 atividades concluídas" />
   <img src="https://img.shields.io/badge/Status-em%20evolução-0EA5E9?style=for-the-badge" alt="Projeto em evolução" />
 </p>
 
@@ -12,18 +12,18 @@
 
 Este repositório reúne minhas atividades, exercícios e pequenos projetos de estudo em Java. A proposta é praticar com frequência, registrar a evolução e construir uma base sólida na linguagem.
 
-Cada atividade terá código organizado, explicação do problema, conceitos utilizados e exemplos de execução.
+Cada atividade possui código organizado, explicação do problema, conceitos utilizados e exemplos de execução.
 
 ## Organização
 
 ```text
 atividades/
 └── 001-nome-da-atividade/
-    ├── Main.java
+    ├── TreinoJava.java
     └── README.md
 ```
 
-- `Main.java`: solução da atividade
+- `TreinoJava.java`: solução da atividade
 - `README.md`: enunciado, explicação e exemplos
 - Pastas numeradas para manter a ordem de evolução
 
@@ -41,7 +41,11 @@ atividades/
 
 | Nº | Atividade | Conceitos | Status |
 |---:|---|---|---|
-| 001 | Primeira atividade | Em definição | Planejada |
+| 001 | [Variáveis e textos](./atividades/001-variaveis-e-textos) | Variáveis, saída e concatenação | Concluída |
+| 002 | [If e else](./atividades/002-if-else) | Condicionais | Concluída |
+| 003 | [Else if](./atividades/003-else-if) | Múltiplas condições | Concluída |
+| 004 | [Entrada com Scanner](./atividades/004-scanner) | Entrada de dados e condicionais | Concluída |
+| 005 | [Operações matemáticas](./atividades/005-operacoes-matematicas) | Scanner e operadores aritméticos | Concluída |
 
 ## Padrão dos commits
 

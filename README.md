@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Atividades-6%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="6 atividades concluídas" />
+  <img src="https://img.shields.io/badge/Atividades-7%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="7 atividades concluídas" />
   <img src="https://img.shields.io/badge/Status-em%20evolução-0EA5E9?style=for-the-badge" alt="Projeto em evolução" />
 </p>
 
@@ -47,6 +47,7 @@ atividades/
 | 004 | [Entrada com Scanner](./atividades/004-scanner) | Entrada de dados e condicionais | Concluída |
 | 005 | [Operações matemáticas](./atividades/005-operacoes-matematicas) | Scanner e operadores aritméticos | Concluída |
 | 006 | [Double e media](./atividades/006-double-e-media) | Double, media e condicionais | Concluida |
+| 008 | [Classes e objetos](./atividades/008-classes-e-objetos) | Classe, objeto e atributos | Concluída |
 
 ## Padrão dos commits
 

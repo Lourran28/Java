@@ -14,6 +14,10 @@ Este repositório reúne minhas atividades, exercícios e pequenos projetos de e
 
 Cada atividade possui código organizado, explicação do problema, conceitos utilizados e exemplos de execução.
 
+## Como praticar em casa
+
+Os enunciados e as explicações estão na pasta [instrucoes](./instrucoes). Leia a aula, tente resolver por conta própria e só depois compare com a solução em `atividades/`.
+
 ## Organização
 
 ```text

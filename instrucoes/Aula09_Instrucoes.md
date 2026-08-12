@@ -1,14 +1,19 @@
 # Aula 09 - metodos em uma classe
 
-## Objetivo
+## Antes de comecar
 
-Aprender a criar um metodo dentro de uma classe e chamar esse metodo por um objeto.
+Voce vai continuar usando dois arquivos:
+
+```text
+Pessoa.java -> guarda os dados e cria a acao apresentar
+Main.java   -> cria pessoa1, preenche os dados e manda ela se apresentar
+```
 
 Na Aula 08, a classe `Pessoa` guardava dados: `nome` e `idade`.
 
 Agora ela tambem vai fazer uma acao: se apresentar.
 
-## O que e um metodo?
+## Passo 1 - criar a acao em Pessoa.java
 
 Um metodo e uma acao que um objeto pode executar.
 
@@ -27,7 +32,9 @@ Nesta parte:
 - `apresentar` e o nome da acao.
 - `()` indica que, por enquanto, o metodo nao recebe nenhuma informacao.
 
-## Chamando o metodo
+O metodo deve ficar dentro da classe `Pessoa`, depois dos atributos.
+
+## Passo 2 - chamar a acao em Main.java
 
 Depois de criar e preencher um objeto, voce chama o metodo assim:
 
@@ -35,7 +42,16 @@ Depois de criar e preencher um objeto, voce chama o metodo assim:
 pessoa1.apresentar();
 ```
 
-Leia como: "pessoa1, se apresente".
+Leia como: "pessoa1, se apresente". Essa linha deve ficar dentro do `main` e depois de preencher nome e idade.
+
+## Ordem certa para pensar
+
+```text
+1. Criar pessoa1
+2. Dar nome e idade para pessoa1
+3. Chamar pessoa1.apresentar()
+4. O Java entra no metodo apresentar e mostra a frase
+```
 
 ## Questao
 
@@ -55,6 +71,12 @@ Use os seus dados. Um exemplo seria:
 ```text
 Ola, eu sou Ana e tenho 20 anos.
 ```
+
+## Erros comuns
+
+- O nome do metodo precisa ser igual nos dois arquivos: `apresentar()` e `apresentar()`.
+- Nao escreva `apresentar` sem parenteses ao chamar: use `pessoa1.apresentar();`.
+- Dentro do metodo, use `nome` e `idade` para pegar os dados daquela pessoa.
 
 ## Como testar
 

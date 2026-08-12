@@ -1,10 +1,15 @@
 # Aula 08 - primeira classe e primeiro objeto
 
-## Objetivo
+## Antes de comecar
 
-Comecar Programacao Orientada a Objetos (POO).
+Nesta aula existem dois arquivos:
 
-Voce vai criar uma classe chamada `Pessoa` e depois criar uma pessoa a partir dela.
+```text
+Pessoa.java -> descreve como uma pessoa e
+Main.java   -> cria uma pessoa e usa essa pessoa
+```
+
+Faca primeiro o `Pessoa.java`. Depois va para o `Main.java`.
 
 ## Ideia principal
 
@@ -21,7 +26,18 @@ class Pessoa {
 
 Essa classe diz que toda pessoa pode ter `nome` e `idade`.
 
-## Criando um objeto
+## Passo 1 - criar o molde em Pessoa.java
+
+No arquivo `Pessoa.java`, voce vai escrever os dados que toda pessoa pode ter:
+
+```java
+String nome;
+int idade;
+```
+
+Nao use `main` nesse arquivo.
+
+## Passo 2 - criar uma pessoa em Main.java
 
 Dentro do `main`, voce pode criar uma pessoa assim:
 
@@ -31,14 +47,14 @@ Pessoa pessoa1 = new Pessoa();
 
 `pessoa1` e o nome do objeto. `new Pessoa()` cria uma nova pessoa a partir da classe `Pessoa`.
 
-Depois, voce pode colocar valores nos atributos:
+Agora, ainda dentro do `main`, coloque os dados nessa pessoa:
 
 ```java
 pessoa1.nome = "Ana";
 pessoa1.idade = 20;
 ```
 
-E mostrar os valores:
+## Passo 3 - mostrar os dados
 
 ```java
 System.out.println(pessoa1.nome);
@@ -64,6 +80,12 @@ Cada arquivo tera uma classe publica com o mesmo nome do arquivo:
 Main.java   -> public class Main
 Pessoa.java -> public class Pessoa
 ```
+
+## Erros comuns
+
+- Escrever `pessoa1.nome` fora do `main`: o objeto so existe dentro do `main`.
+- Colocar aspas na idade: use `20`, nao `"20"`, porque idade e `int`.
+- Usar um nome diferente: `Pessoa` e o nome da classe; `pessoa1` e o nome do objeto.
 
 ## Saida esperada
 

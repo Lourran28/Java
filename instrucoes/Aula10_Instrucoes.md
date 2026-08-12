@@ -1,8 +1,8 @@
 # Aula 10 - construtor
 
-## Objetivo
+## Antes de comecar
 
-Aprender a usar um construtor para criar objetos ja com seus dados.
+O construtor vai trocar tres linhas por uma linha so.
 
 Na Aula 09, voce criava uma pessoa vazia e depois preenchia os atributos em linhas separadas:
 
@@ -12,13 +12,13 @@ pessoa1.nome = "Ana";
 pessoa1.idade = 20;
 ```
 
-Com um construtor, voce pode criar a pessoa ja pronta:
+Com um construtor, voce cria a pessoa ja pronta:
 
 ```java
 Pessoa pessoa1 = new Pessoa("Ana", 20);
 ```
 
-## O que e um construtor?
+## Passo 1 - criar o construtor em Pessoa.java
 
 Um construtor e um trecho especial da classe que roda automaticamente quando usamos `new`.
 
@@ -30,6 +30,8 @@ public Pessoa(String nome, int idade) {
     this.idade = idade;
 }
 ```
+
+Escreva esse construtor dentro da classe `Pessoa`, abaixo dos atributos.
 
 ## Entendendo o `this`
 
@@ -43,6 +45,22 @@ this.nome = nome;
 - `nome` e a informacao recebida pelo construtor.
 
 Leia como: "o nome desta pessoa recebe o nome que foi informado".
+
+## Passo 2 - usar o construtor em Main.java
+
+Depois que o construtor existir, crie a pessoa passando os dois valores dentro dos parenteses:
+
+```java
+Pessoa pessoa1 = new Pessoa("Ana", 20);
+```
+
+A ordem importa: primeiro vai o texto do nome, depois vai o numero da idade.
+
+Depois, chame o metodo:
+
+```java
+pessoa1.apresentar();
+```
 
 ## Questao
 
@@ -68,6 +86,13 @@ Ele nao e assim:
 ```java
 public void Pessoa(...)
 ```
+
+## Erros comuns
+
+- Escrever `void` no construtor: construtor nao usa `void`.
+- Usar outro nome: o construtor precisa se chamar exatamente `Pessoa`.
+- Colocar a idade entre aspas: use `20`, nao `"20"`.
+- Criar `new Pessoa()` sem valores: nesta atividade, passe nome e idade dentro dos parenteses.
 
 ## Saida esperada
 

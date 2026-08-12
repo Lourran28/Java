@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Atividades-8%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="8 atividades concluídas" />
+  <img src="https://img.shields.io/badge/Atividades-9%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="9 atividades concluídas" />
   <img src="https://img.shields.io/badge/Status-em%20evolução-0EA5E9?style=for-the-badge" alt="Projeto em evolução" />
 </p>
 
@@ -53,6 +53,7 @@ atividades/
 | 006 | [Double e media](./atividades/006-double-e-media) | Double, media e condicionais | Concluida |
 | 007 | [Repeticao com while](./atividades/007-repeticao-com-while) | While, contador e incremento | Concluída |
 | 008 | [Classes e objetos](./atividades/008-classes-e-objetos) | Classe, objeto e atributos | Concluída |
+| 009 | [Metodos em uma classe](./atividades/009-metodos-em-classe) | Metodos e chamada de metodo | Concluída |
 
 ## Padrão dos commits
 

@@ -19,3 +19,5 @@ Para praticar em casa:
 - [Aula 06 - Double e media](./Aula06_Instrucoes.md)
 - [Aula 07 - Repeticao com while](./Aula07_Instrucoes.md)
 - [Aula 08 - Classes e objetos](./Aula08_Instrucoes.md)
+- [Aula 09 - Metodos em uma classe](./Aula09_Instrucoes.md)
+- [Aula 10 - Construtor](./Aula10_Instrucoes.md)

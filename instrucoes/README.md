@@ -21,3 +21,4 @@ Para praticar em casa:
 - [Aula 08 - Classes e objetos](./Aula08_Instrucoes.md)
 - [Aula 09 - Metodos em uma classe](./Aula09_Instrucoes.md)
 - [Aula 10 - Construtor](./Aula10_Instrucoes.md)
+- [Aula 11 - Encapsulamento com private e get](./Aula11_Instrucoes.md)

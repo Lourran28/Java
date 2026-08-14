@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Atividades-11%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="11 atividades concluídas" />
+  <img src="https://img.shields.io/badge/Atividades-12%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="12 atividades concluídas" />
   <img src="https://img.shields.io/badge/Status-em%20evolução-0EA5E9?style=for-the-badge" alt="Projeto em evolução" />
 </p>
 
@@ -56,6 +56,7 @@ atividades/
 | 009 | [Metodos em uma classe](./atividades/009-metodos-em-classe) | Metodos e chamada de metodo | Concluída |
 | 010 | [Construtor](./atividades/010-construtor) | Construtor e `this` | Concluída |
 | 011 | [Encapsulamento com private e get](./atividades/011-encapsulamento-private-get) | Private, construtor e getters | Concluída |
+| 012 | [Setter para alterar idade](./atividades/012-setter-alterar-idade) | Private, getters e setter | Concluída |
 
 ## Padrão dos commits
 

@@ -23,3 +23,4 @@ Para praticar em casa:
 - [Aula 10 - Construtor](./Aula10_Instrucoes.md)
 - [Aula 11 - Encapsulamento com private e get](./Aula11_Instrucoes.md)
 - [Aula 12 - Setter com setIdade](./Aula12_Instrucoes.md)
+- [Aula 13 - Validar idade no setter](./Aula13_Instrucoes.md)

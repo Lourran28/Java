@@ -1,13 +1,22 @@
 # Estudos em Python
 
-Esta pasta marca o inicio dos estudos em Python.
+Esta pasta guarda as aulas e atividades de Python, seguindo o mesmo modelo usado nos estudos de Java.
 
-As atividades serao organizadas em ordem, com codigo e instrucoes para praticar em casa.
+## Organizacao
+
+- `atividades`: arquivos usados para escrever e testar os programas.
+- `instrucoes`: explicacoes e desafios de cada aula.
+
+## Atividades
+
+| Numero | Tema | Status |
+| --- | --- | --- |
+| 001 | Variaveis e textos | Pendente |
 
 ## Trilha inicial
 
-1. Variaveis e saida de texto
-2. Entrada de dados
-3. Condicionais
-4. Repeticoes
-5. Listas e funcoes
+1. Variaveis e saida de texto.
+2. Entrada de dados.
+3. Condicionais.
+4. Repeticoes.
+5. Listas e funcoes.

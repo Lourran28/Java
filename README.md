@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Atividades-17%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="17 atividades concluídas" />
+  <img src="https://img.shields.io/badge/Atividades-18%20conclu%C3%ADdas-22C55E?style=for-the-badge" alt="18 atividades concluídas" />
   <img src="https://img.shields.io/badge/Status-em%20evolução-0EA5E9?style=for-the-badge" alt="Projeto em evolução" />
 </p>
 
@@ -62,6 +62,7 @@ atividades/
 | 015 | [Primeira heranca](./atividades/015-primeira-heranca) | Heranca, `extends` e `super` | Concluída |
 | 016 | [Primeira interface](./atividades/016-primeira-interface) | Interface, `implements` e contrato | Concluída |
 | 017 | [Polimorfismo com interface](./atividades/017-polimorfismo-com-interface) | Interface, Pix, Boleto e polimorfismo | Concluída |
+| 018 | [Variavel do tipo interface](./atividades/018-variavel-do-tipo-interface) | Interface, polimorfismo e tipos de referencia | Concluída |
 
 ## Padrão dos commits
 

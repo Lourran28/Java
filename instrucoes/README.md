@@ -28,3 +28,4 @@ Para praticar em casa:
 - [Aula 15 - Primeira heranca](./Aula15_Instrucoes.md)
 - [Aula 16 - Primeira interface](./Aula16_Instrucoes.md)
 - [Aula 17 - Polimorfismo com interface](./Aula17_Instrucoes.md)
+- [Aula 18 - Variavel do tipo interface](./Aula18_Instrucoes.md)

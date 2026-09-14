@@ -26,3 +26,5 @@ Para praticar em casa:
 - [Aula 13 - Validar idade no setter](./Aula13_Instrucoes.md)
 - [Aula 14 - Dois objetos da mesma classe](./Aula14_Instrucoes.md)
 - [Aula 15 - Primeira heranca](./Aula15_Instrucoes.md)
+- [Aula 16 - Primeira interface](./Aula16_Instrucoes.md)
+- [Aula 17 - Polimorfismo com interface](./Aula17_Instrucoes.md)
